@@ -1,0 +1,98 @@
+*{
+    box-sizing: border-box;
+}
+body {
+  font-size: 1.5rem;
+  color: rgb(0, 0, 0);
+}
+/* i{
+   
+    color: rgb(221, 0, 0);
+
+    
+}
+.icon{
+    width: 5rem;
+    height: 5rem;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    transition: 1s;
+
+
+}
+.icon i{
+    font-size: 2rem;
+}
+.icon:hover  {
+    color: aliceblue;
+    transform: rotatey(180deg);
+
+}
+.btn{
+ background-color: transparent;
+ border: 1rem soled black;
+ padding: .5rem 1rem;
+ border-radius: .8rem;
+ transition: 1s;
+}
+.btn:hover{
+color: rgb(255, 255, 255);
+border-color: red;
+background-color: red;
+cursor: pointer;
+}
+.test{
+    margin-top: 100px;
+    height: 200px;
+    width: 200px;
+    border: 2rem solid black;
+    background-color: brown;
+    outline: 1rem solid teal ;
+} */
+/* .form{
+    background-color: rgb(0, 0, 0);
+    width: 400px;
+    height: 600px;
+   margin: auto;
+
+}
+.tetle{
+
+    display: flex;
+    justify-content: center;
+    padding: 1rem 0;
+
+}
+.form-control{
+  width: 100%;
+  background-color: transparent;
+  padding: .8rem .4rem;
+  margin-bottom: 1rem ;
+  border: .1rem solid gold;
+  transition: 3s;
+  border-radius: .5rem;
+}
+.form-group{
+    padding:0 .8rem;
+}
+.form-control:focus{
+    outline: 0;
+    background-color: cadetblue;
+
+}
+.btn-style{
+    background-color: transparent;
+    font-size:  1.8rem;
+    padding: .4rem 1rem;
+    border-radius: .6rem;
+    border: .1rem solid gold;
+    color: white;
+    cursor: pointer;
+} */
+h1::after{
+    content: "backend";
+
+}
